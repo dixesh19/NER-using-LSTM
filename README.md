@@ -102,6 +102,7 @@ def train_model(model,train_loader,test_loader,loss_fn,optimixer,epochs=10):
 
 
 <img width="1178" height="614" alt="image" src="https://github.com/user-attachments/assets/0ea74140-dfc0-4163-8db9-16f4573f7656" />
+
 ### Sample Text Prediction
 
 
